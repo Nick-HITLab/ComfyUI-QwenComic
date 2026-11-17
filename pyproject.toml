@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-qwencomic"
+description = "Make comic pages from a style reference, a cast list and a script: Qwen-Image-Edit-2511 panels, consistent characters, a Qwen3.5 vision check that removes duplicates, and speech balloons placed in empty space."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Nick-HITLab/ComfyUI-QwenComic"
+
+[tool.comfy]
+PublisherId = "nick-hitlab"
+DisplayName = "QwenComic"
+Icon = ""
